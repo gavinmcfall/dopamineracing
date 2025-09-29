@@ -6,7 +6,7 @@
 
 Dopamine Racing ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you interact with our social media accounts and services.
 
-This policy complies with the New Zealand Privacy Act 2020 and applies to all users of our social media platforms.
+This policy complies with the New Zealand Privacy Act 2020 and applies to all users of our social media platforms. Please also review our [Terms of Service](TERMS_OF_SERVICE.md) for the complete terms governing your use of our services.
 
 ## Information We Collect
 
